@@ -1,6 +1,5 @@
 # 📝 Edit Your Portfolio - Complete Guide
 
-## 🎯 Where to Edit
 
 **Main Edit File:** `src/lib/portfolio-data.ts`
 
