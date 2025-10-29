@@ -1,13 +1,4 @@
-# 📝 Edit Your Portfolio - Complete Guide
-
-
-**Main Edit File:** `src/lib/portfolio-data.ts`
-
-This file contains ALL your portfolio information in one easy-to-edit place! No need to touch any complex code.
-
----
-
-## 🚀 Quick Start (5 Minutes)
+##  Quick Start (5 Minutes)
 
 1. **Open the edit file:**
    ```
